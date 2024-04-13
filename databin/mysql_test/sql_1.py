@@ -35,6 +35,6 @@ print(conn)
 cur=conn.cursor()
 print(cur)
 
-cur.execute("select" "")
+cur.execute("select" "
 
 
